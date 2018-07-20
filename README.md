@@ -15,7 +15,7 @@ Example of use with 2 BR's datasets, [`state-codes`](https://github.com/datasets
 
 ![](assets/dataModel-example01.png)
 
-Operating with [SQL-unifier](https://github.com/datasets-br/sql-unifier) will be easy to merge with ofther datasets  in SQL... With PopstgreSQL you can offer datasets in  an standard API with [PostgreREST](https://postgrest.org/en/v5.0/), or plug-and-play with [SchemaOrg](http://schema.org) standards, [FrictionlessData](https://frictionlessdata.io/specs/) standards (and [tools](https://frictionlessdata.io/software/)). 
+Operating with [SQL-unifier](https://github.com/datasets-br/sql-unifier) will be easy to merge with other datasets  in SQL... With PopstgreSQL you can offer datasets in  an standard API with [PostgreREST](https://postgrest.org/en/v5.0/) (or its  descendents [pREST](https://postgres.rest) and [PostGraphile](https://www.graphile.org/postgraphile/)), or plug-and-play with [SchemaOrg](http://schema.org) standards, [FrictionlessData](https://frictionlessdata.io/specs/) standards (and [tools](https://frictionlessdata.io/software/)). 
 
 
 ------
