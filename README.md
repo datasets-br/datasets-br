@@ -11,11 +11,11 @@ Describing the datasets-br directives and using this project as [point of generi
 
 ## Use as an ecosystem of datasets
 
-Example of use with 2 datasets, `br-state` and `br-city`.
+Example of use with 2 BR's datasets, [`state-codes`](https://github.com/datasets-br/state-codes) and [`city-codes`](https://github.com/datasets-br/city-codes).
 
 ![](assets/dataModel-example01.png)
 
-...
+Operating with [SQL-unifier](https://github.com/datasets-br/sql-unifier) will be easy to merge with ofther datasets  in SQL... With PopstgreSQL you can offer datasets in  an standard API with [PostgreREST](https://postgrest.org/en/v5.0/), or plug-and-play with [SchemaOrg](http://schema.org) standards, [FrictionlessData](https://frictionlessdata.io/specs/) standards (and [tools](https://frictionlessdata.io/software/)). 
 
 
 ------
